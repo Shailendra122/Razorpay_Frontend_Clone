@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "vite",
+    "build": "tailwindcss -i ./style.css -o ./output.css --watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "feather": "^0.0.5"
+  },
+  "name": "razorpay-clone-part-4-with-media-query",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

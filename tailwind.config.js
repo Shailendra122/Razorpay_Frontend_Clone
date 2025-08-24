@@ -1,13 +1,11 @@
-
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./*.html"
+    "./**/*.html"
   ],
   theme: {
     extend: {
       colors: {
-        deepBlue: '#060E26', // Replace with your desired color code
+        deepBlue: '#060E26',
       },
     },
   },
